@@ -1,3 +1,5 @@
+import java.sql.Array;
+
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
@@ -25,5 +27,13 @@ public class Main {
 
     boolean logical = true || false && !true;
     System.out.println(logical);
+
+    printBackwards(new int[]{1, 2, 3, 4, 5});
+  }
+
+  public static void printBackwards(int[] numbers) {
+    for(int i=numbers.length-1; i > 0; i--) {
+      System.out.println(numbers[i]);
+    }
   }
 }
