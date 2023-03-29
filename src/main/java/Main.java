@@ -1,4 +1,5 @@
 import java.sql.Array;
+import java.util.ArrayList;
 
 public class Main {
   public static void main(String[] args) {
@@ -29,6 +30,25 @@ public class Main {
     System.out.println(logical);
 
     printBackwards(new int[]{1, 2, 3, 4, 5});
+
+    ArrayList<Integer> studentList = new ArrayList<Integer>();
+
+    studentList.add(222);
+    studentList.add(250);
+    studentList.add(1, 340);
+    studentList.add(400);
+    studentList.add(1, 500);
+
+    System.out.println(studentList);
+
+    ArrayList<Float> random = new ArrayList<Float>();
+    random.add(2f);
+    random.add(4f);
+    random.add(5f);
+    random.add(10f);
+    random.add(99.9f);
+    System.out.println(random.contains(5.0));
+    System.out.println(random.contains(5f));
   }
 
   public static void printBackwards(int[] numbers) {

@@ -5,76 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc99224d-00ad-4a8a-9162-0da4709407db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/Exceptions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/Numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/ReadNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/ScanText1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/TryNCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WritePrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/FindMean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/quiz_numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems/Chemistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/AnnotationDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/ArrayListOps1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/ArrayListOps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/ArrayListOps3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/Duplicates1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/Duplicates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/LinkedListOps1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WithArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WithArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WithArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WithArrayListGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/downloads/WithArrayListTypeSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/BSUnsuccessfulAttempts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/BubbleSortOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/BubbleSortSwapCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/InsertionSortDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/InsertionSortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/ReverseArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gradedQuestions/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gradedQuestions/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gradedQuestions/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/FileFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/MoveAllZeroesToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/ReverseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/Sequence1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/Sequence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/palindromeUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tryouts/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tryouts/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ArrayMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/CompareFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/CompareFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ElseIf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ElseIf2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ForLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ForLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/FunctionReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/FunctionReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/HelloAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/HelloAdvanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/HelloFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/HelloFriend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/IfElse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/IfElse2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/MathLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/MathLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ReturnFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ReturnFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/ScanText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/ScanText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/StringLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/StringLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/SwapNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/SwapNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/SwitchCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/SwitchCase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/WhileLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/WhileLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/WhileLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/WhileLoop3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/aliceinwonderland.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/aliceinwonderland.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/bool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/bool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/userInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloads/userInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/HCF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/IncomeTaxCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/IncomeTaxCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/LCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/MinInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/MinInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/PowOf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/PowOf2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/celToFahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/celToFahr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/lieDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/lieDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnQuestions/smallestOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learnQuestions/smallestOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liveClass/BufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/liveClass/BufferedReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liveClass/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/liveClass/FileRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liveClass/JavaCourseIAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/liveClass/JavaCourseIAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liveClass/LiveClassLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/liveClass/LiveClassLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/AreaOops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/AreaOops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/PracticeQuestions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/PracticeQuestions1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/PracticeQuestions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/PracticeQuestions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrad-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/upgrad-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
     "last_opened_file_path": "/Users/ggunjan/Documents/Study/MScCS/Projects/upgrad-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,6 +92,40 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.recursion">
+    <configuration name="ReverseArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.ReverseArraySearch" />
+      <module name="upgrad-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.recursion" />
+      <module name="upgrad-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseArraySearch" />
+        <item itemvalue="Application.recursion" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -133,6 +139,11 @@
       <workItem from="1676743317029" duration="662000" />
       <workItem from="1676800724094" duration="11213000" />
       <workItem from="1676912567772" duration="6446000" />
+      <workItem from="1677773814057" duration="17487000" />
+      <workItem from="1678901612683" duration="1153000" />
+      <workItem from="1679417571792" duration="2857000" />
+      <workItem from="1679473642740" duration="3525000" />
+      <workItem from="1679575617462" duration="6853000" />
     </task>
     <servers />
   </component>
